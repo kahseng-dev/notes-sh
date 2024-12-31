@@ -1,11 +1,10 @@
 :root {
-	--icon-0: oklch(48.17% 0.2054 261.34); /* default icon color. */
+	--icon-0: oklch(0% 0 0 / 85%); /* default icon color. */
 
-	--bg-0: 0 0% 100%; /* main background color. */
-	--bg-1: rgb(231, 229, 228); /* hovered background color. */
+	--bg-0: oklch(92.32% 0.0026 48.72); /* main background color. */
+	--bg-1: oklch(100% 0 0); /* panel background color */
 
-	--text-0: rgb(12, 10, 9); /* default text color. */
-	--text-1: oklch(44.37% 0.0237 260.13); /* muted text color. */
+	--text-0: oklch(0% 0 0 / 85%); /* default text color. */
 
-	--border-0: oklch(48.17% 0.2054 261.34); /* default border color. */
+	--border-0: oklch(92.32% 0.0026 48.72); /* default border color. */
 }
