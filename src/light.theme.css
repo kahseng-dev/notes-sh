@@ -6,5 +6,5 @@
 
 	--text-0: oklch(0% 0 0 / 85%); /* default text color. */
 
-	--border-0: oklch(92.32% 0.0026 48.72); /* default border color. */
+	--border-0: oklch(80% 0 0); /* default border color. */
 }
