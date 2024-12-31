@@ -3,6 +3,6 @@
   import "../light.theme.css";
 </script>
 
-<main>
+<main class="antialiased text-pretty tracking-tight">
   <slot />
 </main>
