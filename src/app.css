@@ -5,6 +5,10 @@ body {
 	border-color: var(--border-0) !important;
 }
 
+i {
+	color: var(--icon-0);
+}
+
 .font-calendas {
 	font-family: "Calendas Plus", sans-serif;
 }
