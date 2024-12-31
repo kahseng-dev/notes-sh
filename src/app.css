@@ -1,6 +1,6 @@
 :root {
-	--font-0: "Overused Grotesk";
-	--font-1: "Calendas Plus";
+	--font-0: "Overused Grotesk", sans-serif;
+	--font-1: "Calendas Plus", sans-serif;
 }
 
 * {
