@@ -1,17 +1,12 @@
-:root {
-	--font-0: "Overused Grotesk", sans-serif;
-	--font-1: "Calendas Plus", sans-serif;
-}
-
 * {
-	font-family: var(--font-0);
+	font-family: "Overused Grotesk", sans-serif;
 	background-color: var(--bg-0);
 	color: var(--text-0);
 	border-color: var(--border-0) !important;
 }
 
-h1, h2, h3, h4, h5, h6 {
-	font-family: var(--font-1);
+.font-calendas {
+	font-family: "Calendas Plus", sans-serif;
 }
 
 .text-tiny {
