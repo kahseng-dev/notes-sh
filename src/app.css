@@ -1,0 +1,41 @@
+:root {
+	--font-0: "Overused Grotesk";
+	--font-1: "Calendas Plus";
+}
+
+* {
+	font-family: var(--font-0);
+	background-color: var(--bg-0);
+	color: var(--text-0);
+	border-color: var(--border-0) !important;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: var(--font-1);
+}
+
+.text-tiny {
+	font-size: 0.6rem;
+	line-height: 1rem;
+}
+
+.text-muted {
+	color: var(--text-1);
+}
+
+.disable-drag {
+	-webkit-user-drag: none;
+	-khtml-user-drag: none;
+	-moz-user-drag: none;
+	-o-user-drag: none;
+}
+
+@font-face {
+	font-family: "Overused Grotesk";
+	src: url("fonts/overused-grotesk-vf.woff2");
+}
+
+@font-face {
+	font-family: "Calendas Plus";
+	src: url("fonts/calendas-plus.woff2");
+}
